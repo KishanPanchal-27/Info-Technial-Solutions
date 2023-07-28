@@ -1,0 +1,23 @@
+.nav-link{
+    font-weight: 500;
+}
+.slider-image{
+    height: 100vh;
+    background-size: cover;
+}
+.service_icon{
+    font-size: 90px;
+}
+.backgroundcolor{
+    background-color: #262626;
+    color: aliceblue;
+}
+
+
+/* MOBILE RESPONSIVE  */
+@media only screen and (max-width: 600px) {
+    .slider-image{
+        padding-top: auto;
+        height: 320px;
+    }
+  }
